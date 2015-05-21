@@ -1,0 +1,30 @@
+c:\users\anna\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+c:\users\anna\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+c:\users\anna\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+c:\users\anna\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Anna\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Курсы тетрис\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\user1\Desktop\Курсы тетрис\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\user1\Desktop\Курсы тетрис\Tetris\bin\Debug\Tetris.exe
+C:\Users\user1\Desktop\Курсы тетрис\Tetris\bin\Debug\Tetris.pdb
+C:\Users\user1\Desktop\Курсы тетрис\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Tetris_Our\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\user1\Desktop\Tetris_Our\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\user1\Desktop\Tetris_Our\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\c# it labs\Tetris\Tetris_Our\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Anna\Desktop\c# it labs\Tetris\Tetris_Our\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Anna\Desktop\c# it labs\Tetris\Tetris_Our\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\c# it labs\Tetris\Tetris_Our\Tetris\bin\Debug\Tetris.exe
+C:\Users\Anna\Desktop\c# it labs\Tetris\Tetris_Our\Tetris\bin\Debug\Tetris.pdb
+C:\Users\g.gaidabas\Desktop\tetris\Tetris_Our\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\g.gaidabas\Desktop\tetris\Tetris_Our\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\g.gaidabas\Desktop\tetris\Tetris_Our\Tetris\bin\Debug\Tetris.exe
+C:\Users\g.gaidabas\Desktop\tetris\Tetris_Our\Tetris\bin\Debug\Tetris.pdb
+C:\Users\g.gaidabas\Desktop\tetris\Tetris_Our\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Box Sync\Sources\Tetris_Our\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Anna\Box Sync\Sources\Tetris_Our\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Anna\Box Sync\Sources\Tetris_Our\Tetris\bin\Debug\Tetris.exe
+C:\Users\Anna\Box Sync\Sources\Tetris_Our\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Anna\Box Sync\Sources\Tetris_Our\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Anna\ProjectsGitHub\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Anna\ProjectsGitHub\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
